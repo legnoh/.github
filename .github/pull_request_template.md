@@ -1,8 +1,3 @@
----
-name: Basic Pull Request
-about: Standard pull request template
----
-
 ## Description
 
 - <!-- Describe your changes in detail -->
